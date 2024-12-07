@@ -1,7 +1,3 @@
-Here’s a categorized update to better organize your profile:
-
----
-
 # 💫 About Me:  
 A 3rd-semester undergraduate student studying Informatics Engineering at ITS Surabaya. My journey has just started, and I still have so much to learn.
 
