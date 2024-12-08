@@ -34,5 +34,3 @@ A 3rd-semester undergraduate student studying Informatics Engineering at ITS Sur
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/fadhilrevinno)  
 
 ---
-
-What do you think of this structure? Let me know if you'd like to add or refine anything further!
