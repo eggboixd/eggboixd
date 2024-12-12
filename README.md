@@ -10,16 +10,11 @@ A 3rd-semester undergraduate student studying Informatics Engineering at ITS Sur
 
 
 # 📊 GitHub Stats:  
-![](https://github-readme-stats.vercel.app/api?username=eggboixd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=eggboixd&theme=dark&hide_border=false)  
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eggboixd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ---
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=eggboixd&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
-
----
 
 ### 🔝 Top Contributed Repo  
 ![](https://github-contributor-stats.vercel.app/api?username=eggboixd&limit=5&theme=dark&combine_all_yearly_contributions=true)  
