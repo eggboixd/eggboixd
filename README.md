@@ -13,10 +13,6 @@ A 3rd-semester undergraduate student studying Informatics Engineering at ITS Sur
 
 ---
 
-![](https://github-contributor-stats.vercel.app/api?username=eggboixd&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-
----
-
 [![](https://visitcount.itsvg.in/api?id=eggboixd&icon=3&color=0)](https://visitcount.itsvg.in)  
 
 ---
