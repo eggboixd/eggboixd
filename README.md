@@ -1,5 +1,5 @@
 # 💫 About Me:  
-A 3rd-semester undergraduate student studying Informatics Engineering at ITS Surabaya. My journey has just started, and I still have so much to learn.
+A 4th-semester undergraduate student studying Informatics Engineering at ITS Surabaya. My journey has just started, and I still have so much to learn.
 
 ---
 
